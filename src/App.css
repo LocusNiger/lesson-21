@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.buttons-container {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1rem;
+}
